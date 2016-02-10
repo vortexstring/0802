@@ -227,6 +227,7 @@
     </head>
 
     <body onload="doOnLoad();">
+        WELCOME HOME
 
         <div id="main"  style="position:absolute; top:0px;  bottom:10px; left:5px; right:15px; width:99%; height:100%; aborder: #B5CDE4 1px solid;">
 
